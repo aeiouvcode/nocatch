@@ -6,6 +6,8 @@ Know the catch before you sign up. A serious directory of AI models, APIs and to
 
 **Live:** https://aeiouvcode.github.io/nocatch/
 
+**Features and QA:** [FEATURE-MAP.md](FEATURE-MAP.md)
+
 ## About
 
 Every listing names the free limit, license, card requirement, source date and main risk. If a number is not published, the entry says so instead of guessing.
